@@ -1,4 +1,4 @@
-# Power BI Sample Project: Sales Performance Dashboard
+# Power BI 
 
 This project showcases a Power BI dashboard for analyzing sales performance across regions and products.
 
@@ -8,10 +8,5 @@ This project showcases a Power BI dashboard for analyzing sales performance acro
 - KPI monitoring
 - Drill-down capabilities
 
-## Files
-- `sales_performance.pbix`: Power BI dashboard file
-- `sales_data.csv`: Sample dataset (see datasets folder)
-- `screenshots/`: Dashboard images
 
-## Results
-Provided actionable insights to improve sales strategy and operations.
+Links to Power BI screenshots/charts included.

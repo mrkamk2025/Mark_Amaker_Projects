@@ -1,8 +1,7 @@
 # Power BI 
 
-This project showcases a Power BI dashboard for analyzing sales performance across regions and products.
+Interactive dashboards and visual analytics:
 
-## Highlights
 - Data transformation and modeling in Power BI
 - Interactive visualizations and filters
 - KPI monitoring

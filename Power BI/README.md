@@ -8,4 +8,4 @@ Interactive dashboards and visual analytics:
 - Drill-down capabilities
 
 
-Links to Power BI screenshots/charts included.
+Links to Power BI or screenshots/charts included.
